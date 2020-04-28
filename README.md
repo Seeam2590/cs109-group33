@@ -1,6 +1,6 @@
-# CREATING OUR OWN SPOTIFY PLAYLIST RECOMMENDATION MODELS
-
 ## Spotify Recommendations Final Project for CS109A (Fall 2019, Harvard University)
+
+Objective: To create our own spotify playlist recommendation models.
 
 Group 33: Christina Park, Seeam Noor, and Yinyu Ji
 
